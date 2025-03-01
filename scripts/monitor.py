@@ -14,8 +14,8 @@ SCRIPTS_FOLDER = "../scripts"
 
 # Add the monitoring instance information that is required for authentication
 URL = "https://ca-tor.monitoring.cloud.ibm.com"
-APIKEY = "0ly9p7sGhp6-R4yPo2IEFsiZgFricb8cRpSCKuzt6OLS"
-GUID = "b92c514a-ca21-4548-b3f0-4d6391bab407"
+APIKEY = "*****"
+GUID = "*****"
 ibm_headers = IbmAuthHelper.get_headers(URL, APIKEY, GUID)
 
 # Instantiate the Python client
