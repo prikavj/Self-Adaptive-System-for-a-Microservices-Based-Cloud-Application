@@ -1,5 +1,3 @@
-A3
-
 System Overview
 This assignment constitutes a sophisticated and adaptable system for the management and adaptation of complex applications, following the principles of the Monitor Analyze Plan Execute-Knowledge (MAPE-K) adaptation loop. The system encompasses well-structured code, diligent organization, and essential components that collaborate to ensure system responsiveness and resilience. Below is an overview of the directory structure and instructions on how to run the driver effectively.
 
