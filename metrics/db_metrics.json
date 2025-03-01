@@ -1,0 +1,191 @@
+{
+    "column_display_name": [
+        "Sysdig Container CPU Cores Used Percentage",
+        "Sysdig Container CPU Shares Used Percentage",
+        "Sysdig Container File Total Bytes",
+        "Sysdig Container File Total IOPS",
+        "Sysdig Container File Total Time",
+        "Sysdig Container Memory Used Bytes",
+        "Sysdig Container Net Connection Total Count",
+        "Sysdig Container Net Error Count",
+        "Sysdig Container Net HTTP Request Count",
+        "Sysdig Container Net HTTP Request Time",
+        "Sysdig Container Syscall Count",
+        "Sysdig Container Syscall Error Count",
+        "Sysdig Container Thread Count",
+        "Sysdig Program CPU Cores Used Percentage",
+        "Sysdig Program CPU Used Percentage",
+        "Sysdig Program File Input Operations per Second",
+        "Sysdig Program File Open Count",
+        "Sysdig Program File Total Time",
+        "Sysdig Program Memory Used Bytes",
+        "Sysdig Program Net Connection Total Count",
+        "Sysdig Program Net Error Count",
+        "Sysdig Program Syscall Count",
+        "Sysdig Program Thread Count",
+        "Timestamp"
+    ],
+    "metrics": [
+        {
+            "id": "sysdig_container_cpu_cores_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_cpu_shares_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_file_total_bytes",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_file_total_iops",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_file_total_time",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_memory_used_bytes",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_connection_total_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_http_request_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_http_request_time",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_syscall_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_syscall_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_thread_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_cpu_cores_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_cpu_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_file_in_iops",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_file_open_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_file_total_time",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_memory_used_bytes",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_net_connection_total_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_net_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_syscall_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_thread_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        }
+    ]
+}

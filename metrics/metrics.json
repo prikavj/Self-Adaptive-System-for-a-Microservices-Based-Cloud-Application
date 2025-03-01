@@ -1,0 +1,71 @@
+{
+    "column_display_name": [
+        "Sysdig Container CPU Quota Used Percent",
+        "Sysdig Container File In IOPS",
+        "Sysdig Container Net HTTP Request Count",
+        "JMX JVM Heap Used",
+        "Sysdig Container Syscall Error Count",
+        "Sysdig Program Net Error Count",
+        "Sysdig Container Net HTTP Error Count",
+        "Sysdig Container Memory Limit Used Percent",
+        "Timestamp"
+    ],
+    "metrics": [
+        {
+            "id": "sysdig_container_cpu_quota_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_file_in_iops",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_http_request_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "jmx_jvm_heap_used",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_syscall_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_program_net_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_net_http_error_count",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        },
+        {
+            "id": "sysdig_container_memory_limit_used_percent",
+            "aggregations": {
+                "time": "avg",
+                "group": "avg"
+            }
+        }
+    ]
+}

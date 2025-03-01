@@ -1,0 +1,119 @@
+[
+    {
+        "name": "Sysdig Container File In IOPS",
+        "weight": 0.3,
+        "scaled thresholds": [
+            50,
+            80,
+            110
+        ],
+        "preferences": {
+            "low": {
+                "C1": 1,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "medium": {
+                "C1": 0.5,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "high": {
+                "C1": 0.25,
+                "C2": 0.5,
+                "C3": 0.8,
+                "C4": 1,
+                "C5": 1
+            },
+            "very high": {
+                "C1": 0,
+                "C2": 0.1,
+                "C3": 0.25,
+                "C4": 0.5,
+                "C5": 1
+            }
+        }
+    },
+    {
+        "name": "Sysdig Container Net HTTP Request Count",
+        "weight": 0.4,
+        "scaled thresholds": [
+            500,
+            750,
+            1000
+        ],
+        "preferences": {
+            "low": {
+                "C1": 1,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "medium": {
+                "C1": 0.4,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "high": {
+                "C1": 0.2,
+                "C2": 0.4,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "very high": {
+                "C1": 0,
+                "C2": 0.2,
+                "C3": 0.3,
+                "C4": 1,
+                "C5": 1
+            }
+        }
+    },
+    {
+        "name": "JMX JVM Heap Used",
+        "weight": 0.3,
+        "scaled thresholds": [
+            50,
+            75,
+            100
+        ],
+        "preferences": {
+            "low": {
+                "C1": 1,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "medium": {
+                "C1": 0.5,
+                "C2": 1,
+                "C3": 1,
+                "C4": 1,
+                "C5": 1
+            },
+            "high": {
+                "C1": 0.25,
+                "C2": 0.5,
+                "C3": 0.8,
+                "C4": 1,
+                "C5": 1
+            },
+            "very high": {
+                "C1": 0,
+                "C2": 0.1,
+                "C3": 0.9,
+                "C4": 1,
+                "C5": 1
+            }
+        }
+    }
+]

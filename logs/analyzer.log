@@ -1,0 +1,1348 @@
+Script execution started at 2023-11-02 21:05:19
+-------------------------------------------------------
+Analysis for Service: {service}
+Utility dictionary is:
+C1: 0.0
+C2: 0.0
+C3: 0.4
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-02 21:05:19
+-------------------------------------------------------
+Analysis for Service: {service}
+Utility dictionary is:
+C1: 0.0
+C2: 0.0
+C3: 0.0
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-02 21:05:19
+-------------------------------------------------------
+Analysis for Service: {service}
+Utility dictionary is:
+C1: 0.0
+C2: 0.0
+C3: 0.0
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-02 21:05:19
+-------------------------------------------------------
+Analysis for Service: {service}
+Utility dictionary is:
+C1: 0.0
+C2: 0.0
+C3: 0.0
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-02 21:05:19
+Script execution started at 2023-11-03 17:04:38
+Script execution started at 2023-11-03 17:06:59
+Script execution started at 2023-11-03 17:08:21
+Script execution started at 2023-11-03 17:08:34
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+Script execution started at 2023-11-03 17:09:16
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-03 17:09:18
+Script execution started at 2023-11-03 19:18:43
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.41
+C2: 0.64
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+Utility dictionary is:
+C1: 0.41
+C2: 0.64
+C3: 0.7799999999999999
+C4: 0.9600000000000001
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 700m (each), Memory 900Mi (each), and requests: CPU 600m (each), Memory 800Mi (each)
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.38
+C2: 0.64
+C3: 0.7799999999999999
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.2
+C2: 0.28
+C3: 0.68
+C4: 0.94
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 700m (each), Memory 900Mi (each), and requests: CPU 600m (each), Memory 800Mi (each)
+Script execution ended at 2023-11-03 19:18:47
+Script execution started at 2023-11-03 19:23:49
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:23:49
+Script execution started at 2023-11-03 19:28:53
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.35
+C2: 0.5800000000000001
+C3: 0.77
+C4: 0.8799999999999999
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 700m (each), Memory 900Mi (each), and requests: CPU 600m (each), Memory 800Mi (each)
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:28:54
+Script execution started at 2023-11-03 19:33:57
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:33:57
+Script execution started at 2023-11-03 19:39:00
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:39:00
+Script execution started at 2023-11-03 19:44:03
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.62
+C2: 0.79
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-03 19:44:06
+Script execution started at 2023-11-03 19:49:08
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:49:09
+Script execution started at 2023-11-03 19:54:12
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 19:54:12
+Script execution started at 2023-11-03 20:17:13
+Script execution started at 2023-11-03 20:19:27
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+Script execution started at 2023-11-03 20:21:21
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+Script execution started at 2023-11-03 20:22:30
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 20:22:30
+Script execution started at 2023-11-03 20:22:51
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 20:22:51
+Script execution started at 2023-11-03 20:28:29
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 20:28:29
+Script execution started at 2023-11-03 20:33:35
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 20:33:35
+Script execution started at 2023-11-03 21:00:45
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.47
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+Utility dictionary is:
+C1: 0.47
+C2: 0.67
+C3: 0.9
+C4: 0.9600000000000001
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 700m (each), Memory 900Mi (each), and requests: CPU 600m (each), Memory 800Mi (each)
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.44
+C2: 0.8200000000000001
+C3: 0.9
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.32
+C2: 0.52
+C3: 0.89
+C4: 0.94
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 700m (each), Memory 900Mi (each), and requests: CPU 600m (each), Memory 800Mi (each)
+Script execution ended at 2023-11-03 21:00:49
+Script execution started at 2023-11-03 21:05:51
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:05:51
+Script execution started at 2023-11-03 21:10:56
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 700m, Memory 900Mi, and requests: CPU 600m, Memory 800Mi
+Script execution ended at 2023-11-03 21:10:57
+Script execution started at 2023-11-03 21:19:39
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:19:39
+Script execution started at 2023-11-03 21:24:42
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:24:42
+Script execution started at 2023-11-03 21:29:47
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:29:47
+Script execution started at 2023-11-03 21:34:50
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:34:50
+Script execution started at 2023-11-03 21:39:52
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:39:52
+Script execution started at 2023-11-03 21:44:58
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 21:44:58
+Script execution started at 2023-11-03 23:01:29
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.47
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+Utility dictionary is:
+C1: 0.47
+C2: 0.67
+C3: 0.9
+C4: 0.9600000000000001
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.62
+C2: 0.8200000000000001
+C3: 0.9
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.5
+C2: 0.52
+C3: 0.89
+C4: 0.94
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+Script execution ended at 2023-11-03 23:01:33
+Script execution started at 2023-11-03 23:06:37
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:06:37
+Script execution started at 2023-11-03 23:12:30
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:12:30
+Script execution started at 2023-11-03 23:17:34
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+Script execution ended at 2023-11-03 23:17:36
+Script execution started at 2023-11-03 23:22:40
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:22:40
+Script execution started at 2023-11-03 23:27:43
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:27:43
+Script execution started at 2023-11-03 23:32:46
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:32:46
+Script execution started at 2023-11-03 23:37:49
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.4
+C2: 0.5800000000000001
+C3: 0.72
+C4: 0.9099999999999999
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:37:51
+Script execution started at 2023-11-03 23:43:00
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:43:00
+Script execution started at 2023-11-03 23:48:03
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:48:05
+Script execution started at 2023-11-03 23:53:08
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:53:08
+Script execution started at 2023-11-03 23:58:11
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.12
+C2: 0.34
+C3: 0.68
+C4: 0.8399999999999999
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-03 23:58:12
+Script execution started at 2023-11-04 00:03:21
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 00:03:21
+Script execution started at 2023-11-04 10:08:03
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.62
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+Utility dictionary is:
+C1: 0.47
+C2: 0.67
+C3: 0.9
+C4: 0.9600000000000001
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.575
+C2: 0.6699999999999999
+C3: 0.84
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.6499999999999999
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+Script execution ended at 2023-11-04 10:08:07
+Script execution started at 2023-11-04 10:13:10
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:13:10
+Script execution started at 2023-11-04 10:18:13
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:18:13
+Script execution started at 2023-11-04 10:23:17
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:23:17
+Script execution started at 2023-11-04 10:28:19
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:28:19
+Script execution started at 2023-11-04 10:33:23
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.5
+C2: 0.5800000000000001
+C3: 0.77
+C4: 0.8799999999999999
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:33:24
+Script execution started at 2023-11-04 10:38:26
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:38:26
+Script execution started at 2023-11-04 10:43:30
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:43:31
+Script execution started at 2023-11-04 10:48:33
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:48:33
+Script execution started at 2023-11-04 10:53:37
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:53:37
+Script execution started at 2023-11-04 10:58:40
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 10:58:40
+Script execution started at 2023-11-04 11:03:43
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.5
+C2: 0.5800000000000001
+C3: 0.77
+C4: 0.8799999999999999
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:03:44
+Script execution started at 2023-11-04 11:08:47
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.2
+C2: 0.28
+C3: 0.68
+C4: 0.94
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+Script execution ended at 2023-11-04 11:08:48
+Script execution started at 2023-11-04 11:13:51
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:13:51
+Script execution started at 2023-11-04 11:18:54
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.8
+C2: 0.8200000000000001
+C3: 0.9800000000000001
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+Script execution ended at 2023-11-04 11:18:55
+Script execution started at 2023-11-04 11:23:58
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:23:58
+Script execution started at 2023-11-04 11:29:02
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:29:02
+Script execution started at 2023-11-04 11:34:04
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:34:04
+Script execution started at 2023-11-04 11:39:08
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.7
+C2: 0.73
+C3: 0.97
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:39:09
+Script execution started at 2023-11-04 11:46:37
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.7
+C2: 0.73
+C3: 0.97
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+Utility dictionary is:
+C1: 0.55
+C2: 0.73
+C3: 0.85
+C4: 0.94
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+Utility dictionary is:
+C1: 0.55
+C2: 0.73
+C3: 0.85
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+Utility dictionary is:
+C1: 0.7
+C2: 0.73
+C3: 0.97
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+Script execution ended at 2023-11-04 11:46:40
+Script execution started at 2023-11-04 11:51:44
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:51:44
+Script execution started at 2023-11-04 11:56:47
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 11:56:47
+Script execution started at 2023-11-04 12:01:52
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 12:01:52
+Script execution started at 2023-11-04 12:06:55
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 12:06:55
+Script execution started at 2023-11-04 12:11:59
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 12:11:59
+Script execution started at 2023-11-04 13:26:35
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 13:26:35
+Script execution started at 2023-11-04 13:31:38
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 13:31:38
+Script execution started at 2023-11-04 13:36:42
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 13:36:42
+Script execution started at 2023-11-04 13:41:46
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 13:41:46
+Script execution started at 2023-11-04 14:44:19
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 14:44:19
+Script execution started at 2023-11-04 14:49:39
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.3
+C2: 0.41000000000000003
+C3: 0.69
+C4: 0.8400000000000001
+C5: 1.0
+Choosing configuration: C5
+Set: 2 Pods with limits: CPU 1000m (each), Memory 900Mi (each), and requests: CPU 900m (each), Memory 800Mi (each).
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 14:49:41
+Script execution started at 2023-11-04 14:54:43
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 14:54:43
+Script execution started at 2023-11-04 14:59:47
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 14:59:47
+Script execution started at 2023-11-04 15:04:49
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+Utility dictionary is:
+C1: 0.46
+C2: 0.73
+C3: 0.97
+C4: 1.0
+C5: 1.0
+Choosing configuration: C4
+Set: 1 Pod with limits: CPU 1000m, Memory 900Mi, and requests: CPU 800m, Memory 800Mi.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 15:04:50
+Script execution started at 2023-11-04 15:09:54
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 15:09:54
+Script execution started at 2023-11-04 15:14:59
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 15:14:59
+Script execution started at 2023-11-04 15:37:43
+-------------------------------------------------------
+Analysis for Service: acmeair-authservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-customerservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-bookingservice
+No update needed in this cycle.
+-------------------------------------------------------
+Analysis for Service: acmeair-flightservice
+No update needed in this cycle.
+Script execution ended at 2023-11-04 15:37:43
